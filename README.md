@@ -1,5 +1,7 @@
 # Wamda - OTP Sending and Verification Platform
 
+![Wamda Logo](https://github.com/user-attachments/assets/1d177b58-2926-4a60-a1a6-9c717b12807a)
+
 Wamda is a platform for sending and verifying OTP (One-Time Password) codes. This project provides a simple interface for users to request and verify OTPs.
 
 ## Features
