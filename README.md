@@ -20,6 +20,8 @@ The project is deployed and can be accessed at the following URL:
 
 - A web browser
 - Internet connection
+- Clone and run the backend locally from this repository: [https://github.com/m0ohannad/otp-failover](https://github.com/m0ohannad/otp-failover)
+
 
 ### Usage
 
