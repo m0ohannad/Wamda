@@ -14,15 +14,21 @@ Wamda is a platform for sending and verifying OTP (One-Time Password) codes. Thi
 The project is deployed and can be accessed at the following URL:
 [https://m0ohannad.me/Wamda/](https://m0ohannad.me/Wamda/)
 
+
+https://github.com/user-attachments/assets/d6045ca0-c020-4c98-8251-7a4dad930222
+
+
+
 ## Demo
 
 ### First Case: Successful OTP Sending via VendorA
 In this case, the OTP is successfully sent via VendorA on the first attempt.
-![First-Case](./First-Case.mp4)
+![First-Case](https://github.com/user-attachments/assets/d6045ca0-c020-4c98-8251-7a4dad930222)
 
 ### Second Case: OTP Sending Failure via VendorA and Automatic Switch to Another Vendor
 In this case, the OTP sending fails via VendorA and automatically switches to another vendor to send the OTP successfully.
-![Second-Case](./Second-Case.mp4)
+![Second-Case](https://github.com/user-attachments/assets/1b843895-d529-4d34-9d84-e0e87c6dc5a8)
+
 
 ## Getting Started
 
